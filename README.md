@@ -27,11 +27,29 @@ Hybrid deep learning and Transformer architectures for lithium-ion battery State
 
 [View Repository →](https://github.com/walidmchara/Battery-Health-Deep-Learning)
 
+### 🔋 Battery Remaining Useful Life
+
+Hybrid wavelet, Transformer, and XGBoost research for lithium-ion battery remaining-useful-life prediction.
+
+[View Repository →](https://github.com/walidmchara/Hybrid-wavelet-transformer-XGBoost-framework-for-accurate-lithium-ion-battery-RUL-prediction)
+
+### 🧪 Battery State-of-Health Studies
+
+Two focused repositories on battery SOH estimation: a CNN-WNN-WBiLSTM study and an attention-enhanced CNN-BiLSTM study.
+
+[CNN-WNN-WBiLSTM Battery SOH](https://github.com/walidmchara/CNN-WNN-WBiLSTM-Battery-SOH) · [Attention-Enhanced CNN-BiLSTM](https://github.com/walidmchara/Attention-Enhanced-CNN-BiLSTM-Framework-for-Lithium-Ion-Battery-State-of-Health-Prediction)
+
 ### ☀️ Solar Irradiance Forecasting
 
 Advanced multi-region solar irradiance forecasting using wavelets, deep learning, Transformers, residual learning, and optimization.
 
-[View Repository →](https://github.com/walidmchara/Solar-Irradiance-Forecasting)
+[View Repository →](https://github.com/walidmchara/Solar-Irradiance-Forecasting-with-CNN-WNN-MMHA)
+
+### ☀️ Earlier Photovoltaic Forecasting Study
+
+An archived notebook-based study of one-hour-ahead photovoltaic power forecasting.
+
+[View Repository →](https://github.com/walidmchara/One-Hour-ahead-photovoltaic-power-production-forecasting-methodology-based-on-machine-learning)
 
 ### 🔥 Thermal Runaway Prediction
 
