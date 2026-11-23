@@ -41,7 +41,7 @@ Two focused repositories on battery SOH estimation: a CNN-WNN-WBiLSTM study and 
 
 ### ☀️ Solar Irradiance Forecasting
 
-Advanced multi-region solar irradiance forecasting using wavelets, deep learning, Transformers, residual learning, and optimization.
+Solar irradiance research with a CNN-WNN-attention baseline. Consult the repository for its data requirements and evaluation limitations.
 
 [View Repository →](https://github.com/walidmchara/Solar-Irradiance-Forecasting-with-CNN-WNN-MMHA)
 
@@ -53,13 +53,13 @@ An archived notebook-based study of one-hour-ahead photovoltaic power forecastin
 
 ### 🔥 Thermal Runaway Prediction
 
-Physics-guided machine learning and Transformer-based modeling for lithium-ion battery thermal runaway severity prediction.
+A research baseline combining an MLP and CatBoost residual correction for lithium-ion battery thermal-runaway severity prediction.
 
 [View Repository →](https://github.com/walidmchara/Thermal-Runaway-Prediction)
 
 ### 📈 Time-Series Transformer Lab
 
-Research and benchmarking of Transformer, Informer, Linformer, recurrent, and hybrid architectures for multivariate time-series forecasting.
+An LSTM and Transformer baseline for multivariate time-series regression; additional efficient architectures are research directions.
 
 [View Repository →](https://github.com/walidmchara/Time-Series-Transformer-Lab)
 
@@ -68,6 +68,8 @@ Research and benchmarking of Transformer, Informer, Linformer, recurrent, and hy
 Generative AI research for realistic volumetric defect synthesis, 3D learning, and AI-powered industrial inspection.
 
 [View Repository →](https://github.com/walidmchara/3D-Defect-Generation)
+
+Project descriptions summarize research aims, not independently validated performance. Consult each repository's data, evaluation protocol, and documented limitations before comparing results.
 
 ---
 
